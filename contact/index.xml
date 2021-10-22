@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Checker Bloom</title>
-    <link>https://gmikels.github.io/contact/</link>
+    <link>https://checkerbloommusic.github.io/contact/</link>
     <description>Recent content in Contact on Checker Bloom</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gmikels.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://checkerbloommusic.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
