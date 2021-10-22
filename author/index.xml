@@ -5,16 +5,6 @@
     <link>https://checkerbloommusic.github.io/author/</link>
     <description>Recent content in Author on Checker Bloom</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://checkerbloommusic.github.io/author/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Admin</title>
-      <link>https://checkerbloommusic.github.io/author/admin/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://checkerbloommusic.github.io/author/admin/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://checkerbloommusic.github.io/author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
