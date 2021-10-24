@@ -48,6 +48,10 @@
 height: 40px;
 }
 
+.navbar-collapse {
+    margin-left: 0 !important;
+}
+
 .navbar-light .navbar-nav .nav-link {
     color: #fff !important;
     font-family: 'Titillium Web', sans-serif !important;
