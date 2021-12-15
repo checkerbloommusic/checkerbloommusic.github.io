@@ -75,7 +75,7 @@ height: 40px;
     border-bottom: 1px solid rgb(208, 114, 172) !important;
 }
 
-a, .navbar-light .navbar-nav .nav-link:hover {
+.navbar-light .navbar-nav .nav-link:hover {
     color: rgb(208, 114, 172) !important;
     
 }
