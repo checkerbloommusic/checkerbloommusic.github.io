@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.checkerbloommusic.com/categories/</loc>
+    <loc>https://www.checkerbloommusic.com/blog/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.checkerbloommusic.com/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.checkerbloommusic.com/blog/rifts-in-snow/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.checkerbloommusic.com/blog/humble-beginnings/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.checkerbloommusic.com/categories/</loc>
   </url><url>
     <loc>https://www.checkerbloommusic.com/search/</loc>
   </url><url>

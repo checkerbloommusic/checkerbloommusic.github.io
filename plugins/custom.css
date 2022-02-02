@@ -10,9 +10,7 @@
    
 }
 
-.navbar-brand {
-    display: none;
-}
+
 
 .banner {
     height: 100vh !important;
@@ -34,6 +32,10 @@
     .navigation {
         background: #222 !important;
     }
+
+    .desktop {
+        display: none;
+    }
 }
 
 
@@ -52,7 +54,7 @@ height: 40px;
     margin-left: 0 !important;
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link, .navbar-brand {
     color: #fff !important;
     font-family: 'Titillium Web', sans-serif !important;
     font-size: 20px !important;
@@ -68,14 +70,24 @@ height: 40px;
     .banner .illustration { 
         bottom: 15vh !important;
     }
+
+    .navbar-brand {
+        position: absolute;
+        top: 20px;
+        left: 30px;
+    }
+
+    .mobile {
+        display: none;
+    }
 }
 
-.btn-transparent {
+.btn-transparent, .post-body a {
     color: rgb(208, 114, 172) !important;
     border-bottom: 1px solid rgb(208, 114, 172) !important;
 }
 
-.navbar-light .navbar-nav .nav-link:hover {
+.navbar-light .navbar-nav .nav-link:hover, .post-title a, .btn-main {
     color: rgb(208, 114, 172) !important;
     
 }
@@ -134,4 +146,12 @@ p, .paragraph {
     font-family: 'Titillium Web', sans-serif !important;
     font-size: 20px !important;
     font-weight: 200 !important;
+}
+
+h2, h3, h4 {
+    color: #fff !important;
+}
+
+.post-body p {
+    color: #f1f1f1 !important;
 }

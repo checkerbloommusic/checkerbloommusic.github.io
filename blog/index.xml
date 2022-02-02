@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Checker Bloom</title>
-    <link>https://checkerbloommusic.github.io/blog/</link>
-    <description>Recent content in Blog on Checker Bloom</description>
+    <title>Blogs on Checker Bloom</title>
+    <link>https://www.checkerbloommusic.com/blog/</link>
+    <description>Recent content in Blogs on Checker Bloom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://checkerbloommusic.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.checkerbloommusic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fossil Fire Album Release Show ft. Checker Bloom @ The Shakedown</title>
-      <link>https://checkerbloommusic.github.io/blog/post-1/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <title>Rifts in the Snow</title>
+      <link>https://www.checkerbloommusic.com/blog/rifts-in-snow/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://checkerbloommusic.github.io/blog/post-1/</guid>
-      <description>Check out The Shakedown for more information.</description>
+      <guid>https://www.checkerbloommusic.com/blog/rifts-in-snow/</guid>
+      <description>The age-long faction brought on by the snow made its way into the band.</description>
+    </item>
+    
+    <item>
+      <title>Humble Beginnings and Onward to 2022</title>
+      <link>https://www.checkerbloommusic.com/blog/humble-beginnings/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.checkerbloommusic.com/blog/humble-beginnings/</guid>
+      <description>Woah well hello there! Happy New Year to ya. If you’ve found your way here, welcome.</description>
     </item>
     
   </channel>
