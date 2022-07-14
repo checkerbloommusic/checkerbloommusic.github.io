@@ -83,12 +83,12 @@ height: 40px;
 }
 
 .btn-transparent, .post-body a {
-    color: rgb(208, 114, 172) !important;
-    border-bottom: 1px solid rgb(208, 114, 172) !important;
+    color: rgb(244,136,129) !important;
+    border-bottom: 1px solid rgb(244,136,129) !important;
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .post-title a, .btn-main {
-    color: rgb(208, 114, 172) !important;
+    color: rgb(244,136,129) !important;
     
 }
 
@@ -121,7 +121,7 @@ p, .paragraph {
 }
 
 .pagination .page-item.active .page-link, .nav-tab .nav-link.active, .btn-primary-new, .social-icon a {
-    background: rgb(208, 114, 172) !important;
+    background: rgb(244,136,129) !important;
     color: #fff !important;
     border: 1px solid #fff !important;
 }
